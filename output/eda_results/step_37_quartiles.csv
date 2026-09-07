@@ -1,0 +1,17 @@
+Feature,25%,50%,75%
+capacity_bytes,14000519643136.0,16000900661248.0,20000588955648.0
+failure,0.0,0.0,0.0
+smart_5_normalized,100.0,100.0,100.0
+smart_5_raw,0.0,0.0,0.0
+smart_9_normalized,37.0,76.0,98.0
+smart_9_raw,13627.0,28002.0,42432.75
+smart_90_normalized,100.0,100.0,100.0
+smart_90_raw,493921239040.0,519691042816.0,536870912000.0
+smart_187_normalized,100.0,100.0,100.0
+smart_187_raw,0.0,0.0,0.0
+smart_188_normalized,100.0,100.0,100.0
+smart_188_raw,0.0,0.0,0.0
+smart_197_normalized,100.0,100.0,100.0
+smart_197_raw,0.0,0.0,0.0
+smart_198_normalized,100.0,100.0,100.0
+smart_198_raw,0.0,0.0,0.0

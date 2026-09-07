@@ -1,0 +1,17 @@
+Feature,Sample_Anomalies_ZScore_GT_3
+capacity_bytes,5510
+failure,3
+smart_5_normalized,699
+smart_5_raw,862
+smart_9_normalized,0
+smart_9_raw,133
+smart_90_normalized,0
+smart_90_raw,1603
+smart_187_normalized,1174
+smart_187_raw,27
+smart_188_normalized,7
+smart_188_raw,384
+smart_197_normalized,179
+smart_197_raw,98
+smart_198_normalized,180
+smart_198_raw,42

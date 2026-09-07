@@ -1,0 +1,17 @@
+Feature,Maximum
+capacity_bytes,26000658268160.0
+failure,1.0
+smart_5_normalized,252.0
+smart_5_raw,65528.0
+smart_9_normalized,100.0
+smart_9_raw,113246.0
+smart_90_normalized,100.0
+smart_90_raw,281470681744896.0
+smart_187_normalized,100.0
+smart_187_raw,65535.0
+smart_188_normalized,100.0
+smart_188_raw,2860492129820.0
+smart_197_normalized,252.0
+smart_197_raw,461760.0
+smart_198_normalized,252.0
+smart_198_raw,461760.0

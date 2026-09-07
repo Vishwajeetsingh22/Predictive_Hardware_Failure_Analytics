@@ -1,0 +1,9 @@
+Metric,Value
+Total Rows,30943146
+Total Columns,19
+Numerical Features,16
+Categorical Features,3
+Total Missing Values,138718464
+Duplicate Rows,345662
+Target Column,failure
+Analysis Sample Size,500000

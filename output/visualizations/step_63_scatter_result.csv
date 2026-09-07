@@ -1,0 +1,2 @@
+Feature_X,Feature_Y,Correlation,Relationship,Interpretation
+capacity_bytes,smart_5_normalized,-0.04466960110510459,Very weak / negligible,"The scatter plot compares capacity_bytes and smart_5_normalized. The correlation is -0.04, indicating a very weak / negligible relationship."

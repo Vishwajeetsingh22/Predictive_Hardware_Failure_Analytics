@@ -1,0 +1,12 @@
+Metric,Value
+Original Rows,30943146
+Original Columns,19
+Final Rows,30597484
+Final Columns,19
+Duplicates Removed,345662
+Final Duplicate Rows,0
+Remaining Missing Values,0
+ID Columns Removed,0
+Categorical Columns Encoded,0
+Categorical Columns Not Encoded,3
+Columns Standardized,15

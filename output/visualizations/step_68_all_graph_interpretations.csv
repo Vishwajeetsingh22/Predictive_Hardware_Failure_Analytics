@@ -1,0 +1,9 @@
+Step,Graph,Interpretation
+60,Bar Chart,The bar chart shows the distribution of failure status. '0' has the highest number of records.
+61,Line Chart,The line chart shows the variation of capacity_bytes over time or observations.
+62,Histogram,The histogram shows the distribution of capacity_bytes.
+63,Scatter Plot,The scatter plot shows the relationship between capacity_bytes and smart_5_normalized.
+64,Box Plot,"The box plot shows the spread, median, quartiles and possible outliers of capacity_bytes."
+65,Pie Chart,The pie chart shows the proportion of each failure category.
+66,Correlation Heatmap,The heatmap shows the correlation relationships among numerical features.
+67,Failure Status Comparison,The comparison shows how capacity_bytes differs between failure-status groups.

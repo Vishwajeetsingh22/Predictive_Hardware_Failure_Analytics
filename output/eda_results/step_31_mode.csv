@@ -1,0 +1,20 @@
+Feature,Mode,Frequency
+date,2026-01-01,100000
+serial_number,000a43e7dee60010,1
+model,WDC WUH722222ALE6L4,41451
+capacity_bytes,16000900661248,180022
+failure,0,499997
+smart_5_normalized,100.0,495700
+smart_5_raw,0.0,474836
+smart_9_normalized,100.0,74603
+smart_9_raw,9953.0,261
+smart_90_normalized,100.0,85769
+smart_90_raw,536870912000.0,5969
+smart_187_normalized,100.0,109711
+smart_187_raw,0.0,109700
+smart_188_normalized,100.0,114024
+smart_188_raw,0.0,106643
+smart_197_normalized,100.0,486071
+smart_197_raw,0.0,476949
+smart_198_normalized,100.0,496560
+smart_198_raw,0.0,490943

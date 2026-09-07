@@ -1,0 +1,2 @@
+Feature,Skewness,Distribution,Interpretation
+capacity_bytes,-0.13030420433759882,Approximately symmetric,"The histogram shows the distribution of capacity_bytes. The distribution is Approximately symmetric, with a skewness value of -0.13."

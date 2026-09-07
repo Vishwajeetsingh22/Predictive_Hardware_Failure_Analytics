@@ -1,0 +1,9 @@
+Step,Visualization,Purpose
+60,Bar Chart,Compare categories
+61,Line Chart,Identify trends
+62,Histogram,Understand distributions
+63,Scatter Plot,Identify relationships
+64,Box Plot,Identify spread and outliers
+65,Pie Chart,Show proportions
+66,Correlation Heatmap,Analyze correlations
+67,Failure Status Comparison,Compare features by failure status

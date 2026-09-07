@@ -1,0 +1,19 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.vscode/
+
+# Large datasets
+/backblaze_analytical_dataset.csv
+/output/cleaned_disk_smart_data.csv
+/output/
+
+*.pkl
+*.joblib
+
+.DS_Store
+Thumbs.db

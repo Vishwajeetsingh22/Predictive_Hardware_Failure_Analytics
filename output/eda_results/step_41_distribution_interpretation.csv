@@ -1,0 +1,17 @@
+Feature,Skewness,Interpretation
+capacity_bytes,-0.2708831588185615,Approximately symmetric
+failure,408.2458409586068,Highly positively skewed
+smart_5_normalized,36.91185266309327,Highly positively skewed
+smart_5_raw,42.790390615881044,Highly positively skewed
+smart_9_normalized,-0.5712039868632898,Moderately negatively skewed
+smart_9_raw,0.3900055674220352,Approximately symmetric
+smart_90_normalized,0.0,Approximately symmetric
+smart_90_raw,-2.1352551974695353,Highly negatively skewed
+smart_187_normalized,-10.792845007280219,Highly negatively skewed
+smart_187_raw,128.95116225802525,Highly positively skewed
+smart_188_normalized,-335.03317941334615,Highly negatively skewed
+smart_188_raw,49.149063843440224,Highly positively skewed
+smart_197_normalized,56.0184493758149,Highly positively skewed
+smart_197_raw,576.2970496832875,Highly positively skewed
+smart_198_normalized,24.040222086857455,Highly positively skewed
+smart_198_raw,591.3096432666163,Highly positively skewed
